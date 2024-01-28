@@ -1,3 +1,4 @@
-A scatter plot of [The Iris Dataset](https://gist.github.com/curran/a08a1080b88344b0c8a7).
+# Scatter Plot with Interation on Color 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Ig_C5lDTuq4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+-  Datased used - Iris dataset
+-  Tech stack used - D3.js,React, typescript
